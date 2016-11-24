@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+passwort
+Kap2_Rollen/
+simple_playbook.yml
+ssh-add-passphrase.sh
+.gitignore_gitlab
